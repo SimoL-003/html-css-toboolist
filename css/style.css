@@ -94,15 +94,15 @@ section.list li {
 }
 
 .main-list>li:first-of-type {
-    margin-top: 0;
+    padding-top: 0;
 }
 
 .main-list>li {
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 .internal-list li {
-    margin-top: 10px;
+    padding-top: 10px;
 }
 
 .toggle {

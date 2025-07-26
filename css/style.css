@@ -54,17 +54,16 @@ main section {
 
 section.buttons {
     margin-bottom: 3px;
+    padding: 20px 0 15px 50px;
 }
 
 .button {
     padding: 10px 20px;
     border-radius: 5px;
-    margin: 20px auto 15px;
     border-style: solid;
 }
 
 .button-primary {
-    margin-left: 50px;
     margin-right: 5px;
     background-color: rgb(44, 161, 234);
     color: rgb(255 255 255);

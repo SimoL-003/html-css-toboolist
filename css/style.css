@@ -79,3 +79,12 @@ section.buttons {
 }
 
 /* /Button  */
+
+/* List  */
+section.list li {
+    list-style-type: none;
+}
+
+.main-list {
+    margin-left: 50px;
+}

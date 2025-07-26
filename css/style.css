@@ -10,6 +10,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+/* /GENERAL STYLE  */
+
 /* HEADER  */
 .header {
     height: 100px;
@@ -27,4 +34,48 @@ img.logo {
     vertical-align: middle;
 }
 
+/* /HEADER  */
+
 /* MAIN  */
+
+main {
+    background-color: rgb(244, 247, 248);
+    padding-top: 50px;
+    /* debug  */
+    height: 500px;
+}
+
+main section {
+    background-color: rgb(255, 255, 255);
+}
+
+/* /MAIN  */
+
+/* Buttons section */
+
+section.buttons {
+    margin-bottom: 3px;
+}
+
+.button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 20px auto 15px;
+    border-style: solid;
+}
+
+.button-primary {
+    margin-left: 50px;
+    margin-right: 5px;
+    background-color: rgb(44, 161, 234);
+    color: rgb(255 255 255);
+    border-color: rgb(44, 161, 234);
+}
+
+.button-secondary {
+    background-color: rgb(255, 255, 255);
+    color: rgb(189, 196, 201);
+    border-color: rgb(189, 196, 201);
+}
+
+/* /Button  */
